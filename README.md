@@ -11,6 +11,6 @@ This repository showcases sample test cases, bug reports, test plans, and docume
 🔹 Learning Notes
 
  🔗 Contact
- 📧 your-sharma.aditi9120@gmail.com
+ 📧 sharma.aditi9120@gmail.com
  [LinkedIn](https://www.linkedin.com/in/aditi-sharma-b3a627225/)
 
